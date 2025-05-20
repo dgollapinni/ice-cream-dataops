@@ -1,0 +1,6 @@
+build/
+.env
+poetry.lock
+build_info*
+function_local_venvs/
+
